@@ -1,0 +1,32 @@
+h1, h3 {
+    color: #0072B5;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+.upload-section {
+    /* background-color: #f9f9f9; */
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.result-box {
+    margin-top: 30px;
+    padding: 20px;
+    /* background-color: #e9f5ff; */
+    /* border-left: 5px solid #0072B5; */
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
